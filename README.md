@@ -40,8 +40,8 @@ http://caa.iti.gr:8090/verify_video?id=<YouTube_ID>
 
 #### Responses
 
-http://caa.iti.gr:8090/get_ytverification?id=<YouTube_ID>
-http://caa.iti.gr:8090/get_twverification?id=<YouTube_ID>
+- http://caa.iti.gr:8090/get_ytverification?id=<YouTube_ID>
+- http://caa.iti.gr:8090/get_twverification?id=<YouTube_ID>
 
 More details can be found at the swagger documentation: http://caa.iti.gr:8080/swagger/?url=http://caa.iti.gr:8080/Context_Aggregation_and_Analysis.json
 
