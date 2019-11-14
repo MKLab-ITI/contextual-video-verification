@@ -1,3 +1,7 @@
+# DEPRECATED
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # contextual-video-verification
 Provides support to end users for verifying web videos using metadata and contextual signals.
 
@@ -46,3 +50,6 @@ http://caa.iti.gr:8090/verify_video?id=<YouTube_ID>
 More details can be found at the swagger documentation: http://caa.iti.gr:8080/swagger/?url=http://caa.iti.gr:8080/Context_Aggregation_and_Analysis.json
 
 For further details, contact Symeon Papadopoulos (papadop@iti.gr) or Olga Papadopoulou (olgapapa@iti.gr).
+
+
+
